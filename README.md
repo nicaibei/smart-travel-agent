@@ -3,6 +3,7 @@
 基于 OpenAI 兼容 SDK 的自定义多 Agent 实现
 
 基于四个 Agent 协作的智能旅行规划助手，使用 FastAPI、Vue、通义千问和高德地图服务生成包含景点、天气、酒店、餐饮和预算的旅行计划。
+![Uploading image.png…]()
 
 ## 项目结构
 
