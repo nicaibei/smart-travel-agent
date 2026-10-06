@@ -29,6 +29,10 @@ frontend/EDIT_FEATURE_SUMMARY.md
 frontend/EXPORT_FEATURE_GUIDE.md
 frontend/HOME_OPTIMIZATION.md
 frontend/SIDEBAR_NAVIGATION_GUIDE.md
+RUNNING_GUIDE.md
+backend/QUICK_START.md
+backend/TROUBLESHOOTING.md
+frontend/README.md
 
 # Editors and OS files
 .vscode/
