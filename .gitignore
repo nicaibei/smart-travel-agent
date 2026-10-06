@@ -1,0 +1,28 @@
+# Secrets and local configuration
+.env
+**/.env
+!.env.example
+**/!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node / Vite
+node_modules/
+frontend/dist/
+
+# Local logs and generated runtime files
+*.log
+*.pid
+
+# Editors and OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
