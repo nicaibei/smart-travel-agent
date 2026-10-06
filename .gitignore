@@ -20,6 +20,16 @@ frontend/dist/
 *.log
 *.pid
 
+# Local process notes and iteration summaries
+FINAL_SUMMARY.md
+PROJECT_SUMMARY.md
+UNSPLASH_INTEGRATION.md
+frontend/EDIT_FEATURE_GUIDE.md
+frontend/EDIT_FEATURE_SUMMARY.md
+frontend/EXPORT_FEATURE_GUIDE.md
+frontend/HOME_OPTIMIZATION.md
+frontend/SIDEBAR_NAVIGATION_GUIDE.md
+
 # Editors and OS files
 .vscode/
 .idea/
